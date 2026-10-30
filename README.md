@@ -64,7 +64,7 @@ The workflow is modularized into four sequential R scripts to separate data proc
 
 ## ⚙️ Installation & Requirements
 
-Ensure you have R (>= 4.0.0) installed alongside Java (for MaxEnt). High RAM (32GB+) is recommended for the 100m BART modeling step.
+Ensure you have R (>= 4.0.0) installed alongside Java (for MaxEnt). High RAM (96GB+) is recommended for the 100m BART modeling step, but at least 32GB for viewing the RData files.
 
 ### R Package Dependencies:
 ```R
